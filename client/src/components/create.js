@@ -23,7 +23,7 @@ async function onSubmit(e) {
     // When a post request is sent to the create url, we'll add a new record to the database.
     const newPerson = { ...form };
   
-    await fetch("http://localhost:5000/record/add", {
+    await fetch("http://Elisha-Edme.github.io/firesideproduct/record/add", {
     //await fetch("http://dpz1707.github.io/firesideproduct/record/add", {
       method: "POST",
       headers: {
