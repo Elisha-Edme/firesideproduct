@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://dpz1707.github.io/firesideproduct",
+  "homepage": "https://Elisha-Edme.github.io/firesideproduct",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
